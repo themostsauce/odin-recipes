@@ -1,3 +1,3 @@
 # odin-recipes
 
-## A simple collection of recipes to hone my HTML skills.
+### A simple collection of recipes to hone my HTML skills.
